@@ -1,0 +1,24 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2021-11-23T23:51:55+01:00",
+  "id": "README_BIOS01_02",
+  "duration": 1,
+  "title": "Archivo README.md",
+  "summary": "README Enlace Guías BIOS01 y BIOS02",
+  "source": "README_BIOS01_02.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "codelab",
+    "markdown"
+  ],
+  "tags": [
+    "web"
+  ],
+  "url": "README_BIOS01_02"
+}
